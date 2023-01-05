@@ -1,0 +1,41 @@
+{
+  "1231321": {
+    "title": "Batman",
+    "img": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg",
+    "desctiption": "On Halloween, Gotham City Mayor Don Mitchell Jr. is murdered by the Riddler, a masked serial killer. Reclusive billionaire Bruce Wayne, who has operated for two years as the vigilante Batman, investigates the murder alongside the Gotham City Police Department (GCPD).",
+    "year": 2020,
+    "genres": ["Thriller", "Action"]
+  },
+
+  "1231322": {
+    "title": "Superman",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-7SLtfpeWg5LekpLMnw1KPDds4XXA5WO9uzIBELXCTNV7epBRQumkZ9nJIJEdgGo9JHI&usqp=CAU",
+    "desctiption": "An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero. Surviving the destruction of the planet Krypton, young Kal-El is sent by his father Jor-El to live among mankind on Earth.",
+    "year": 2020,
+    "genres": ["Action", "Adventure"]
+  },
+
+  "1231323": {
+    "title": "Thor",
+    "img": "https://images.thedirect.com/media/photos/thor1.jpg",
+    "desctiption": "A war is waged between the frost giants and Thor's (Chris Hemsworth's) homeland. Loki (Tom Hiddleston) fights for his right to the throne. Thor is cast out of Asgard by his father Odin (Sir Anthony Hopkins) and sent to Midgard (Earth) as punishment for his arrogance and disobedience in his battle.",
+    "year": 2002,
+    "genres": ["Thriller", "Action"]
+  },
+
+  "1231324": {
+    "title": "Emancipation",
+    "img": "https://m.media-amazon.com/images/M/MV5BN2RiY2RmMjItMDc1My00ZmViLWJkM2YtZjExNDI5MGM2ZWNiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg",
+    "desctiption": "'Emancipation' tells the triumphant story of Peter (Will Smith), a man who escapes from slavery, relying on his wits, unwavering faith and deep love for his family to evade cold-blooded hunters and the unforgiving swamps of Louisiana on his quest for freedom.",
+    "year": 2013,
+    "genres": ["Drama"]
+  },
+
+  "1231325": {
+    "title": "Batman",
+    "img": "https://m.media-amazon.com/images/I/815BZqTNrsL._AC_SY606_.jpg",
+    "desctiption": "Description goes here",
+    "year": 1994,
+    "genres": ["Drama", "Thriller", "Action"]
+  }
+}
